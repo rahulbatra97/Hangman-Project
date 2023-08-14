@@ -14,3 +14,9 @@ else:
     print("Oops! That is not a valid input.")
 
 #if you're reading this, you've successfully pushed to github
+
+
+
+
+
+#building the proper guessing system like with while loops and stuff
